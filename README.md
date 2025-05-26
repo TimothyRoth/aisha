@@ -1,25 +1,25 @@
-HTML
-CSS
-JavaScript
-Frontend vs Backend
-HTTP / HTTPS
-Webserver
-Domain & Hosting
-Responsive Design
-Browser Developer Tools
-DOM (Document Object Model)
-API (Application Programming Interface)
-Frameworks (z.B. React, Vue, Angular)
-Versionierung / Git & GitHub
-Bootstrap (CSS Framework)
-REST API
-Client-Server-Architektur
-Datenbanken (z.B. MySQL, MongoDB)
-JSON (JavaScript Object Notation)
-Webfonts
-SEO (Search Engine Optimization)
-Cookies & Sessions
-Frontend-Build-Tools (z.B. Webpack, npm)
-Barrierefreiheit (Accessibility, a11y)
-Debugging
-Progressive Web Apps (PWA)
+- [HTML](https://www.google.com/search?q=HTML)  
+- [CSS](https://www.google.com/search?q=CSS)  
+- [JavaScript](https://www.google.com/search?q=JavaScript)  
+- [Frontend vs Backend](https://www.google.com/search?q=Frontend+vs+Backend)  
+- [HTTP / HTTPS](https://www.google.com/search?q=HTTP+%2F+HTTPS)  
+- [Webserver](https://www.google.com/search?q=Webserver)  
+- [Domain & Hosting](https://www.google.com/search?q=Domain+%26+Hosting)  
+- [Responsive Design](https://www.google.com/search?q=Responsive+Design)  
+- [Browser Developer Tools](https://www.google.com/search?q=Browser+Developer+Tools)  
+- [DOM (Document Object Model)](https://www.google.com/search?q=DOM+Document+Object+Model)  
+- [API (Application Programming Interface)](https://www.google.com/search?q=API+Application+Programming+Interface)  
+- [Frameworks (z.B. React, Vue, Angular)](https://www.google.com/search?q=Frameworks+React+Vue+Angular)  
+- [Versionierung / Git & GitHub](https://www.google.com/search?q=Versionierung+Git+GitHub)  
+- [Bootstrap (CSS Framework)](https://www.google.com/search?q=Bootstrap+CSS+Framework)  
+- [REST API](https://www.google.com/search?q=REST+API)  
+- [Client-Server-Architektur](https://www.google.com/search?q=Client-Server-Architektur)  
+- [Datenbanken (z.B. MySQL, MongoDB)](https://www.google.com/search?q=Datenbanken+MySQL+MongoDB)  
+- [JSON (JavaScript Object Notation)](https://www.google.com/search?q=JSON+JavaScript+Object+Notation)  
+- [Webfonts](https://www.google.com/search?q=Webfonts)  
+- [SEO (Search Engine Optimization)](https://www.google.com/search?q=SEO+Search+Engine+Optimization)  
+- [Cookies & Sessions](https://www.google.com/search?q=Cookies+Sessions)  
+- [Frontend-Build-Tools (z.B. Webpack, npm)](https://www.google.com/search?q=Frontend-Build-Tools+Webpack+npm)  
+- [Barrierefreiheit (Accessibility, a11y)](https://www.google.com/search?q=Barrierefreiheit+Accessibility+a11y)  
+- [Debugging](https://www.google.com/search?q=Debugging)  
+- [Progressive Web Apps (PWA)](https://www.google.com/search?q=Progressive+Web+Apps+PWA)  
